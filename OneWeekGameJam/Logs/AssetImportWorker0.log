@@ -1,0 +1,641 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1165; Version 2009; 64bit' Language: 'ja' Physical Memory: 65464 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\2020.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/KokuryuKaruma/Desktop/OneWeekGameJam
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52903
+Successfully changed project path to: C:/Users/KokuryuKaruma/Desktop/OneWeekGameJam
+C:/Users/KokuryuKaruma/Desktop/OneWeekGameJam
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 20.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/KokuryuKaruma/Desktop/OneWeekGameJam/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3090 (ID=0x2204)
+    Vendor:   
+    VRAM:     24348 MB
+    Driver:   27.21.14.6663
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56108
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.3.5f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Unity/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/Unity/2020.3.5f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001358 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 22.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.667 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000574 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.505 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1135 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.6 MB.
+System memory in use after: 61.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1578.
+Total: 1.906600 ms (FindLiveObjects: 0.283300 ms CreateObjectMapping: 0.042800 ms MarkObjects: 1.485500 ms  DeleteObjects: 0.093800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(2a0d7b1b3b3a67c44a349fc25940cf53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(2a0d7b1b3b3a67c44a349fc25940cf53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1793c32e18d3ac36baac2801dd6487dd') in 0.006395 seconds
+  Import took 0.008023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a2e40e81d35f9ada7821be9923d9eb') in 0.008934 seconds
+  Import took 0.010323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.116189 seconds.
+  path: Assets/ZRNAssets/Cars
+  artifactKey: Guid(80c1a32ae45359c448f21e8af51e643e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Cars using Guid(80c1a32ae45359c448f21e8af51e643e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb7d39ad5a91dda98658fe9ab249f218') in 0.004509 seconds
+  Import took 0.006087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.101239 seconds.
+  path: Assets/ZRNAssets/Cars/Car_Sedan_01.fbx
+  artifactKey: Guid(ca7ffa4613f44456e97dfb8df3dd1a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Cars/Car_Sedan_01.fbx using Guid(ca7ffa4613f44456e97dfb8df3dd1a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11afb4a92ddce042fac6accaca8941db') in 0.433533 seconds
+  Import took 0.435515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/ZRNAssets/Cars/Car_TAXI_02.fbx
+  artifactKey: Guid(84f061a46241e492fb7a857d85b3e4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Cars/Car_TAXI_02.fbx using Guid(84f061a46241e492fb7a857d85b3e4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f4b8b743a9b778369eb2b989680c3c9') in 0.024210 seconds
+  Import took 0.025614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/ZRNAssets/Cars/Car_Sedan_02.fbx
+  artifactKey: Guid(60b2a39a62fbc4c6aa251a492af217fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Cars/Car_Sedan_02.fbx using Guid(60b2a39a62fbc4c6aa251a492af217fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055c374a996af6dffa88e6b28f31f8a2') in 0.023000 seconds
+  Import took 0.024401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/ZRNAssets/Cars/Car_TAXI_01.fbx
+  artifactKey: Guid(3c30a7463e7c945e5be8e3d79f339dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Cars/Car_TAXI_01.fbx using Guid(3c30a7463e7c945e5be8e3d79f339dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '589423326014e623b492ff392f66775c') in 0.023029 seconds
+  Import took 0.024498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/ZRNAssets/Cars/Car_TAXI_03.fbx
+  artifactKey: Guid(09138089c3c6f421cb5374ef0466c53c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Cars/Car_TAXI_03.fbx using Guid(09138089c3c6f421cb5374ef0466c53c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4447f8edef884cc54f96556b190a104') in 0.021143 seconds
+  Import took 0.022496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/ZRNAssets/Cars/Car_Sedan_03.fbx
+  artifactKey: Guid(f8fb5be307ca84a53bf7b8b966a2b4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Cars/Car_Sedan_03.fbx using Guid(f8fb5be307ca84a53bf7b8b966a2b4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6f24a502a8e1411bcb8f03001e3bf47') in 0.021583 seconds
+  Import took 0.023045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/ZRNAssets/Cars/Car_TAXI_04.fbx
+  artifactKey: Guid(cf44e54909dd04dff9e881d4f0c78015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Cars/Car_TAXI_04.fbx using Guid(cf44e54909dd04dff9e881d4f0c78015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca360a02ecfb9bc4ade45eee8837b4f6') in 0.021881 seconds
+  Import took 0.023299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/ZRNAssets/Cars/Car_Sedan_04.fbx
+  artifactKey: Guid(1fe8274d159fc4e618364536c2fde5a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Cars/Car_Sedan_04.fbx using Guid(1fe8274d159fc4e618364536c2fde5a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ae6cd667e958c2f730e337a15c3bbcd') in 0.021354 seconds
+  Import took 0.022816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.817255 seconds.
+  path: Assets/ZRNAssets/Cars/Scripts
+  artifactKey: Guid(7f61a8690e5844c538509b46de5cbdf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Cars/Scripts using Guid(7f61a8690e5844c538509b46de5cbdf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd11e7d9e936cd3c6534cf6d5396473') in 0.004392 seconds
+  Import took 0.005905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.506277 seconds.
+  path: Assets/ZRNAssets/Cars/Models
+  artifactKey: Guid(6ffa358fe1dfc4db3859c26699beec2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Cars/Models using Guid(6ffa358fe1dfc4db3859c26699beec2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b7213ee6caa90f5d516244ed61b709') in 0.004251 seconds
+  Import took 0.005792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.386097 seconds.
+  path: Assets/ZRNAssets/Cars/Materials
+  artifactKey: Guid(9725f69a0cc81b541afeb4940d38a5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Cars/Materials using Guid(9725f69a0cc81b541afeb4940d38a5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cfe7b6806c3c9f1c2f6537fe142c2e5') in 0.004365 seconds
+  Import took 0.005883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.241786 seconds.
+  path: Assets/ZRNAssets/Cars/Textures
+  artifactKey: Guid(c735b9385b2504009ac792131ef12e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Cars/Textures using Guid(c735b9385b2504009ac792131ef12e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be1404638091f1d83def75c256dfe103') in 0.004343 seconds
+  Import took 0.005930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.447042 seconds.
+  path: Assets/ZRNAssets/Skyboxes/DawnDusk Skybox.mat
+  artifactKey: Guid(9ba05f538ee36044da5cd2a4f14a8b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Skyboxes/DawnDusk Skybox.mat using Guid(9ba05f538ee36044da5cd2a4f14a8b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21ce33feec6798c230f08c29b4f9cad1') in 0.507792 seconds
+  Import took 0.509645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/ZRNAssets/Skyboxes/StarryNight Skybox.mat
+  artifactKey: Guid(5aab239cac7fe8a4c931693a7535da5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Skyboxes/StarryNight Skybox.mat using Guid(5aab239cac7fe8a4c931693a7535da5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a624f0779ef51640036b7c8b379c3196') in 0.021930 seconds
+  Import took 0.023286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/ZRNAssets/Skyboxes/Sunny1 Skybox.mat
+  artifactKey: Guid(a2126534b3a11b34e977105bd9e3cc03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Skyboxes/Sunny1 Skybox.mat using Guid(a2126534b3a11b34e977105bd9e3cc03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56abef443cc96bea1bd726edcceb8286') in 0.016828 seconds
+  Import took 0.018220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/ZRNAssets/Skyboxes/MoonShine Skybox.mat
+  artifactKey: Guid(5ba172cd3918d7c44aa6d04446119a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Skyboxes/MoonShine Skybox.mat using Guid(5ba172cd3918d7c44aa6d04446119a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'affbcb91e9ba14a480b37008842a3885') in 0.017892 seconds
+  Import took 0.019271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/ZRNAssets/Skyboxes/Overcast2 Skybox.mat
+  artifactKey: Guid(d4d16ca3d56fb7142a32d49bbd323836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Skyboxes/Overcast2 Skybox.mat using Guid(d4d16ca3d56fb7142a32d49bbd323836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a15bacc2698e1f66927b70a9e495a6') in 0.020303 seconds
+  Import took 0.021645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/ZRNAssets/Skyboxes/Sunny3 Skybox.mat
+  artifactKey: Guid(53412155bc1016547b1a77b2333c0380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Skyboxes/Sunny3 Skybox.mat using Guid(53412155bc1016547b1a77b2333c0380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b21eaa49a99156dadf8bf8cabbad075') in 0.015504 seconds
+  Import took 0.016771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/ZRNAssets/Skyboxes/Eerie Skybox.mat
+  artifactKey: Guid(16522f49031ff414abdf1f83f1b6a36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Skyboxes/Eerie Skybox.mat using Guid(16522f49031ff414abdf1f83f1b6a36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea4d04947c64002dffbe516071b7686f') in 0.020891 seconds
+  Import took 0.022285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/ZRNAssets/Skyboxes/Sunny2 Skybox.mat
+  artifactKey: Guid(da976b1a4f7ebb949b0f71341e4f1821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Skyboxes/Sunny2 Skybox.mat using Guid(da976b1a4f7ebb949b0f71341e4f1821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cd50c05c1d3f722d148d4d4016c190b') in 0.043115 seconds
+  Import took 0.044415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/ZRNAssets/Skyboxes/Overcast1 Skybox.mat
+  artifactKey: Guid(931987be26c9646429c56f8a4692bb81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Skyboxes/Overcast1 Skybox.mat using Guid(931987be26c9646429c56f8a4692bb81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '174607b08e3b0b3566912c7ba7748a39') in 0.014392 seconds
+  Import took 0.015842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001169 seconds.
+  path: Assets/ZRNAssets/Skyboxes/Overcast1 Skybox.mat
+  artifactKey: Guid(931987be26c9646429c56f8a4692bb81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/Skyboxes/Overcast1 Skybox.mat using Guid(931987be26c9646429c56f8a4692bb81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '174607b08e3b0b3566912c7ba7748a39') in 0.019808 seconds
+  Import took 0.021637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.502781 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan
+  artifactKey: Guid(10cf2ddb330724fc08667d825ceb8b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan using Guid(10cf2ddb330724fc08667d825ceb8b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ec9f87cd48113efdf274d8bf7ccf761') in 0.004173 seconds
+  Import took 0.005762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.306281 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Scenes
+  artifactKey: Guid(ede45e611ce0845f58001990af326bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Scenes using Guid(ede45e611ce0845f58001990af326bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '389910848dadcecf4628586f7e0b8e6b') in 0.003645 seconds
+  Import took 0.005219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Scenes
+  artifactKey: Guid(ede45e611ce0845f58001990af326bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Scenes using Guid(ede45e611ce0845f58001990af326bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '389910848dadcecf4628586f7e0b8e6b') in 0.003098 seconds
+  Import took 0.004479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.838562 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Scenes/01_OperateQuery_Standing.unity
+  artifactKey: Guid(acbd93d50db3e4489849ce2e88f7d7a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Scenes/01_OperateQuery_Standing.unity using Guid(acbd93d50db3e4489849ce2e88f7d7a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a81163330ed429c905abec7bf2cbe3a4') in 0.004795 seconds
+  Import took 0.006445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.016795 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Scenes/02_OperateQuery_Flying.unity
+  artifactKey: Guid(68fac5ef7ca534bf981c63440b33f04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Scenes/02_OperateQuery_Flying.unity using Guid(68fac5ef7ca534bf981c63440b33f04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9886fb743cdb5ec94e811c3e54b7fc44') in 0.004573 seconds
+  Import took 0.006270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.946540 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Scenes/03_OperateQuery_Attack.unity
+  artifactKey: Guid(c21e2294d0fef41829ebea76d58b81cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Scenes/03_OperateQuery_Attack.unity using Guid(c21e2294d0fef41829ebea76d58b81cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c53bce392bd85b21048585e6cdcd87d5') in 0.004343 seconds
+  Import took 0.006204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.245581 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Body.tga
+  artifactKey: Guid(1db2cc12302c74f4ea350f86176ca592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Body.tga using Guid(1db2cc12302c74f4ea350f86176ca592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '785f649d85680465421d12fdb64093cb') in 0.016972 seconds
+  Import took 0.018741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Cube_Back.tga
+  artifactKey: Guid(04fb3551c59518545af812786cd51157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Cube_Back.tga using Guid(04fb3551c59518545af812786cd51157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c942845e069ba2b88932b54562690d') in 0.009315 seconds
+  Import took 0.010652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Anger_p3.tga
+  artifactKey: Guid(a2f42cfb825754eef954c5a6fce09d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Anger_p3.tga using Guid(a2f42cfb825754eef954c5a6fce09d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d34e08acfaf94f7c7e2896eb43d5750') in 0.012079 seconds
+  Import took 0.013756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Cube_Front.tga
+  artifactKey: Guid(a1d559dd3a0d5b74bae5dd3976ca3fdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Cube_Front.tga using Guid(a1d559dd3a0d5b74bae5dd3976ca3fdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c792c9f2d8bb52c07abffc34a6282ec7') in 0.007826 seconds
+  Import took 0.009248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Anger_p4.tga
+  artifactKey: Guid(de16a0d1ea3644725a97f59af561410a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Anger_p4.tga using Guid(de16a0d1ea3644725a97f59af561410a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a416e757af14baf4c4c5f37f8def3f') in 0.008743 seconds
+  Import took 0.010124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Cube_Left.tga
+  artifactKey: Guid(627e282aa2071604fb2eaf0c1090cf10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Cube_Left.tga using Guid(627e282aa2071604fb2eaf0c1090cf10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd53f061004511dd11bc0ffc858dad62e') in 0.007925 seconds
+  Import took 0.009071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Cube_Bottom.tga
+  artifactKey: Guid(a512ceb8eab787441b47bc3a70d6b3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Cube_Bottom.tga using Guid(a512ceb8eab787441b47bc3a70d6b3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8477f4ab2c502fe3620ed0f8d6a72fa') in 0.007756 seconds
+  Import took 0.008941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Anger_p2.tga
+  artifactKey: Guid(22dfb05d884f34a8a9ed6097db3bd65e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Anger_p2.tga using Guid(22dfb05d884f34a8a9ed6097db3bd65e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11a4639d1174e23e3bce77f01558c7e') in 0.011353 seconds
+  Import took 0.013034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Anger_p1.tga
+  artifactKey: Guid(c88b97e8b2dbc400a9bad74e3d029286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Anger_p1.tga using Guid(c88b97e8b2dbc400a9bad74e3d029286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '871fe1b4adca0f6e2d374a5ce5844ec3') in 0.008218 seconds
+  Import took 0.009686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Cube_Right.tga
+  artifactKey: Guid(9a78f4d9ee72dac4bba19baa944bdca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Cube_Right.tga using Guid(9a78f4d9ee72dac4bba19baa944bdca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e56536e1e71b159b735d4b344aa63ac') in 0.008180 seconds
+  Import took 0.009502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Cube_Top.tga
+  artifactKey: Guid(ae06d16e36664564382df3b9c88cfcd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Cube_Top.tga using Guid(ae06d16e36664564382df3b9c88cfcd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a43fc87664c1b368ec37c1d3b32fa388') in 0.007594 seconds
+  Import took 0.008774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.603262 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Fun_p1.tga
+  artifactKey: Guid(014b8243a64cd4c9e856f5c65aa5f61b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Fun_p1.tga using Guid(014b8243a64cd4c9e856f5c65aa5f61b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93f70d2145e337555d63f20a64d097f') in 0.008734 seconds
+  Import took 0.010358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017908 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Fun_p2.tga
+  artifactKey: Guid(e03e0b84501c244298364fdb01d98301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Fun_p2.tga using Guid(e03e0b84501c244298364fdb01d98301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aa367c41dead0a25970cf8674b33a58') in 0.008515 seconds
+  Import took 0.010078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001309 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Fun_p2.tga
+  artifactKey: Guid(e03e0b84501c244298364fdb01d98301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Fun_p2.tga using Guid(e03e0b84501c244298364fdb01d98301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aa367c41dead0a25970cf8674b33a58') in 0.006658 seconds
+  Import took 0.007907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Fun_p3.tga
+  artifactKey: Guid(306b3344d11b24117b317782d111c8bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Fun_p3.tga using Guid(306b3344d11b24117b317782d111c8bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd581c6d7a7ab45d4ed78d3599e8d0608') in 0.007906 seconds
+  Import took 0.009208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.295104 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Fun_p4.tga
+  artifactKey: Guid(36014f15a93a94e319cc0b2ef8309926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Fun_p4.tga using Guid(36014f15a93a94e319cc0b2ef8309926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c4830976759c86e4d4e5669ad504243') in 0.009671 seconds
+  Import took 0.011622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007653 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Normal_p1.tga
+  artifactKey: Guid(338f7ecc45d00432aa703bd6a77d8fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Normal_p1.tga using Guid(338f7ecc45d00432aa703bd6a77d8fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3641dafb7537b43aba220ba24d2de667') in 0.010119 seconds
+  Import took 0.012177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004561 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Normal_p1.tga
+  artifactKey: Guid(338f7ecc45d00432aa703bd6a77d8fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Normal_p1.tga using Guid(338f7ecc45d00432aa703bd6a77d8fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3641dafb7537b43aba220ba24d2de667') in 0.007339 seconds
+  Import took 0.008628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Normal_p2.tga
+  artifactKey: Guid(83cb81247c912414f9301804221a78b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Normal_p2.tga using Guid(83cb81247c912414f9301804221a78b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a91d3228e30171c952f07a2b9213fde7') in 0.009884 seconds
+  Import took 0.011557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Normal_p3.tga
+  artifactKey: Guid(3a24a64da515c4a70ad5153d5f4695e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Normal_p3.tga using Guid(3a24a64da515c4a70ad5153d5f4695e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5da2c91a19a64b4553269e1e6cb7a8f1') in 0.010331 seconds
+  Import took 0.012209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001876 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Normal_p3.tga
+  artifactKey: Guid(3a24a64da515c4a70ad5153d5f4695e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Normal_p3.tga using Guid(3a24a64da515c4a70ad5153d5f4695e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5da2c91a19a64b4553269e1e6cb7a8f1') in 0.008117 seconds
+  Import took 0.009896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.207667 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Normal_p4.tga
+  artifactKey: Guid(fe390f81628d84dfc81dfee26ed38c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Normal_p4.tga using Guid(fe390f81628d84dfc81dfee26ed38c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e49401a7e20dc667b1c7b452b6318a16') in 0.008868 seconds
+  Import took 0.010594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Sad_p1.tga
+  artifactKey: Guid(0ba4ba313577d41b3949fd6727e959e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Sad_p1.tga using Guid(0ba4ba313577d41b3949fd6727e959e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8ee10ad1e0ea0b6d7882ae036dc8d1') in 0.007932 seconds
+  Import took 0.009195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008462 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Sad_p2.tga
+  artifactKey: Guid(75d4d2179f9f94156b7948d069c9cbc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Sad_p2.tga using Guid(75d4d2179f9f94156b7948d069c9cbc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2bbb8c655470994719ded02cf66f906') in 0.008784 seconds
+  Import took 0.010382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Sad_p3.tga
+  artifactKey: Guid(ee8d9fb8999b84fc693f375bfacaa3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Sad_p3.tga using Guid(ee8d9fb8999b84fc693f375bfacaa3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88f7d2168c81cbee2496a35dc93f606') in 0.007886 seconds
+  Import took 0.009040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008953 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Sad_p4.tga
+  artifactKey: Guid(2af2a807047994f3795a6cf73933d478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Sad_p4.tga using Guid(2af2a807047994f3795a6cf73933d478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28bba718ff18bbe04ccf1ee47c920bc1') in 0.008276 seconds
+  Import took 0.009988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.660747 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Surprised_p1.tga
+  artifactKey: Guid(1ce5dd3d6499a4a5d878c1c0346de52c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Surprised_p1.tga using Guid(1ce5dd3d6499a4a5d878c1c0346de52c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f581a1260cd331e60d3db6ac598fa88a') in 0.008988 seconds
+  Import took 0.010713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Surprised_p1mid.tga
+  artifactKey: Guid(08d960a52ca9c4cdda9a90351a7f017b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Surprised_p1mid.tga using Guid(08d960a52ca9c4cdda9a90351a7f017b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '685649df322f7b5d0bf545464376f9f8') in 0.008888 seconds
+  Import took 0.010292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009452 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Surprised_p2.tga
+  artifactKey: Guid(a3e77f3d639c149429eb7a09468f9132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Surprised_p2.tga using Guid(a3e77f3d639c149429eb7a09468f9132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd41efbfeb584a4a3604efb41136ca976') in 0.008478 seconds
+  Import took 0.010084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Surprised_p4.tga
+  artifactKey: Guid(5b77a745b398b45b5a78e0b605a5ef29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Surprised_p4.tga using Guid(5b77a745b398b45b5a78e0b605a5ef29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79f8a1965642f667043690e46aa040eb') in 0.008119 seconds
+  Import took 0.009358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Surprised_p3.tga
+  artifactKey: Guid(1da3c01094a8f4a87959b41f6d2c2f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Surprised_p3.tga using Guid(1da3c01094a8f4a87959b41f6d2c2f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '475e76c01cda47b34edf56c11ad74ab1') in 0.008332 seconds
+  Import took 0.009870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.246296 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Surprised_p4mid.tga
+  artifactKey: Guid(79acdc2e407e24db1ac32789d4c5ea78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Surprised_p4mid.tga using Guid(79acdc2e407e24db1ac32789d4c5ea78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a13c705b8159b9121a6a408f6d7aede2') in 0.009826 seconds
+  Import took 0.011626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Surprised_p4mid.tga
+  artifactKey: Guid(79acdc2e407e24db1ac32789d4c5ea78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Face_Surprised_p4mid.tga using Guid(79acdc2e407e24db1ac32789d4c5ea78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a13c705b8159b9121a6a408f6d7aede2') in 0.007247 seconds
+  Import took 0.008585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Hair.tga
+  artifactKey: Guid(077462e6fefd3304986e58826fdef91f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Textures/tex_Hair.tga using Guid(077462e6fefd3304986e58826fdef91f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f272140b52ee424515f9387ff3a17033') in 0.008108 seconds
+  Import took 0.009321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.526618 seconds.
+  path: Assets/ZRNAssets/PQAssets/Query-Chan/Documents/Query-Chan_license_logo.png
+  artifactKey: Guid(f02a0be9b4e494eeda226c92303df204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/PQAssets/Query-Chan/Documents/Query-Chan_license_logo.png using Guid(f02a0be9b4e494eeda226c92303df204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a6d32ab4c7d9d6f88273d1b3ba35b4a') in 0.023488 seconds
+  Import took 0.025316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.507124 seconds.
+  path: Assets/ZRNAssets/005339_08932_25_14/Scenes
+  artifactKey: Guid(5badda7fa95674431b551a118eff3c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/005339_08932_25_14/Scenes using Guid(5badda7fa95674431b551a118eff3c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3428c2f4e018faabd1cf933bd50b9632') in 0.003854 seconds
+  Import took 0.005437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.497202 seconds.
+  path: Assets/ZRNAssets/005339_08932_25_14/Scenes/Sample_005339_08932_25_14.unity
+  artifactKey: Guid(783686484a6b647158a3961cbd5e6f63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZRNAssets/005339_08932_25_14/Scenes/Sample_005339_08932_25_14.unity using Guid(783686484a6b647158a3961cbd5e6f63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd81ecae3c8fcc55b8db52093d41516cd') in 0.005036 seconds
+  Import took 0.006644 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000689 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.495 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1125 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.8 MB.
+System memory in use after: 64.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1626.
+Total: 1.409000 ms (FindLiveObjects: 0.139900 ms CreateObjectMapping: 0.024500 ms MarkObjects: 1.185100 ms  DeleteObjects: 0.058600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
